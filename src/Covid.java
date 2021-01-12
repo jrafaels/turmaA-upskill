@@ -18,5 +18,13 @@ public class Covid {
     public int getIdade() {
         return idade;
     }
+
+    public String esLinda(String a){
+        if ( a.equals("Joana Antunes")){
+            return "És Linda!";
+        } else {
+            return "Volta para o útero e sai de novo!";
+        }
+    }
 }
 
