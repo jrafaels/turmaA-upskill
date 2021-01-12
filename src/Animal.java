@@ -1,12 +1,6 @@
 public class Animal {
-
     private String nome;
     private int patas;
-
-    public Animal(String nome, int patas) {
-        this.nome = nome;
-        this.patas = patas;
-    }
 
     public String getNome() {
         return nome;
@@ -22,5 +16,12 @@ public class Animal {
 
     public void setPatas(int patas) {
         this.patas = patas;
+    }
+
+    public Animal(String nome, int patas) {
+        this.nome = nome;
+        this.patas = patas;
+
+
     }
 }
