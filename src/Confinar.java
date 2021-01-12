@@ -6,5 +6,5 @@ public class Confinar {
         this.cidade=cidade;
         this.duração=duração;
     }
-    public String getCidade
+    public String getCidade;
 }
