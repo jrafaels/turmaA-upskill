@@ -1,4 +1,4 @@
-public class SUCORRU {
+public class Sucorru {
 
     //ajooda
 
